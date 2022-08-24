@@ -7,3 +7,4 @@ RENCANA PROJECT
 - project web portofolio
 - project web lain-lain
 - project web perusahaan asuransi
+  * deadline desember
