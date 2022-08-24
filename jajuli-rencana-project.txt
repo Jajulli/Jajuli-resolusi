@@ -2,7 +2,7 @@ RENCANA PROJECT
 - project sistem informasi service centre berbasis web
   * project selesai bulan oktober/november
   * kemungkinan pakai js
-- project web sistem informasi pt
 - project harga pangan di pasar berbasis web
 - project web portofolio
 - project web lain-lain
+- project web sistem informasi keuangan PELNI
