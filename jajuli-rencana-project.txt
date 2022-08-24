@@ -6,3 +6,4 @@ RENCANA PROJECT
 - project harga pangan di pasar berbasis web
 - project web portofolio
 - project web lain-lain
+- project web perusahaan asuransi
